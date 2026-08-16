@@ -1,50 +1,52 @@
-# LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/subhasankarsahu/LeetCode/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/subhasankarsahu/LeetCode/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0009-palindrome-number) |
-| [0050-powx-n](https://github.com/subhasankarsahu/LeetCode/tree/master/0050-powx-n) |
-| [0189-rotate-array](https://github.com/subhasankarsahu/LeetCode/tree/master/0189-rotate-array) |
-| [0231-power-of-two](https://github.com/subhasankarsahu/LeetCode/tree/master/0231-power-of-two) |
-| [0509-fibonacci-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0509-fibonacci-number) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/subhasankarsahu/LeetCode/tree/master/0002-add-two-numbers) |
-| [0050-powx-n](https://github.com/subhasankarsahu/LeetCode/tree/master/0050-powx-n) |
-| [0231-power-of-two](https://github.com/subhasankarsahu/LeetCode/tree/master/0231-power-of-two) |
-| [0509-fibonacci-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0509-fibonacci-number) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0509-fibonacci-number) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0509-fibonacci-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0136-single-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0136-single-number) |
-| [0231-power-of-two](https://github.com/subhasankarsahu/LeetCode/tree/master/0231-power-of-two) |
-## Array
-|  |
-| ------- |
-| [0136-single-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0136-single-number) |
-| [0189-rotate-array](https://github.com/subhasankarsahu/LeetCode/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/subhasankarsahu/LeetCode/tree/master/0283-move-zeroes) |
-## Two Pointers
-|  |
-| ------- |
-| [0189-rotate-array](https://github.com/subhasankarsahu/LeetCode/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/subhasankarsahu/LeetCode/tree/master/0283-move-zeroes) |
-<!---LeetCode Topics End-->
+This repository contains my solutions to LeetCode problems that I have solved while practicing data structures, algorithms, and interview-style coding questions.
+
+The purpose of this repository is to track my progress, revisit important concepts, and maintain a collection of solutions with different approaches and optimizations.
+
+## Structure
+
+Problems are organized by topic whenever possible, including:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks and Queues
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Backtracking
+* Binary Search
+
+## What You'll Find
+
+For each problem, I try to include:
+
+* A clear and working solution
+* Time and space complexity analysis
+* Notes on the approach used
+* Alternative solutions when relevant
+
+## Goals
+
+* Build a strong foundation in data structures and algorithms
+* Improve problem-solving skills through consistent practice
+* Learn different patterns and techniques used in coding interviews
+* Keep a record of my learning journey
+
+## Progress
+
+I regularly update this repository as I solve new problems and revisit older ones to improve my understanding or optimize previous solutions.
+
+## Disclaimer
+
+These solutions are written for learning and practice purposes. There may be multiple valid approaches to a problem, and some solutions may be updated over time as I learn better techniques.
+
+## References
+
+* LeetCode
+* Official problem editorials
+* Community discussions and alternative approaches
+
+Feel free to explore the solutions and compare different methods of solving the same problem.
