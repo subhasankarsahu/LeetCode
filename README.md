@@ -33,5 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/subhasankarsahu/LeetCode/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
