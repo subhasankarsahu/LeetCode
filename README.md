@@ -39,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/subhasankarsahu/LeetCode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/subhasankarsahu/LeetCode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/subhasankarsahu/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
