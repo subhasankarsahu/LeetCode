@@ -50,3 +50,11 @@ These solutions are written for learning and practice purposes. There may be mul
 * Community discussions and alternative approaches
 
 Feel free to explore the solutions and compare different methods of solving the same problem.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/subhasankarsahu/LeetCode/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
