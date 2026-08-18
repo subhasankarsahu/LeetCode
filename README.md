@@ -57,4 +57,9 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/subhasankarsahu/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/subhasankarsahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/subhasankarsahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
