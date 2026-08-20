@@ -57,6 +57,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/subhasankarsahu/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -64,6 +65,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/subhasankarsahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
@@ -86,6 +88,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -94,4 +97,16 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
