@@ -56,6 +56,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
 | [0485-max-consecutive-ones](https://github.com/subhasankarsahu/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -77,4 +78,20 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
