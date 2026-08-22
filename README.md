@@ -62,6 +62,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 | [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/subhasankarsahu/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/subhasankarsahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subhasankarsahu/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/subhasankarsahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -83,11 +84,13 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/subhasankarsahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/subhasankarsahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
