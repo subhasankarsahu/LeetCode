@@ -76,6 +76,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subhasankarsahu/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
@@ -138,4 +140,12 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subhasankarsahu/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
