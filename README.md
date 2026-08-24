@@ -56,6 +56,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/subhasankarsahu/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/subhasankarsahu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhasankarsahu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/subhasankarsahu/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhasankarsahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
