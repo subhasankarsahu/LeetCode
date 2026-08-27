@@ -73,11 +73,13 @@ Feel free to explore the solutions and compare different methods of solving the 
 | [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/subhasankarsahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/subhasankarsahu/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subhasankarsahu/LeetCode/tree/master/0169-majority-element) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -146,8 +149,13 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
