@@ -97,6 +97,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 | [0031-next-permutation](https://github.com/subhasankarsahu/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/subhasankarsahu/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 | [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhasankarsahu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/subhasankarsahu/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
