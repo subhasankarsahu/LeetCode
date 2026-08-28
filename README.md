@@ -57,6 +57,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/subhasankarsahu/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/subhasankarsahu/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/subhasankarsahu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/subhasankarsahu/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/subhasankarsahu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/subhasankarsahu/LeetCode/tree/master/0048-rotate-image) |
 | [1927-sum-game](https://github.com/subhasankarsahu/LeetCode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subhasankarsahu/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
@@ -163,4 +165,8 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subhasankarsahu/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/subhasankarsahu/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
