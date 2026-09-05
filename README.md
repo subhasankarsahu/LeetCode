@@ -68,6 +68,7 @@ Feel free to explore the solutions and compare different methods of solving the 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/subhasankarsahu/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/subhasankarsahu/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3903-smallest-stable-index-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,4 +173,8 @@ Feel free to explore the solutions and compare different methods of solving the 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/subhasankarsahu/LeetCode/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/subhasankarsahu/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
